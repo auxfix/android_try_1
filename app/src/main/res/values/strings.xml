@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestDrive</string>
+    <string name="test_flight_demo">Test Flight Demo</string>
 </resources>
